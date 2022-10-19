@@ -1,0 +1,15 @@
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-5_Interface_IFormattable\OOP-5_Interface_IFormattable\bin\Debug\net6.0\OOP-5_Interface_IFormattables.exe
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-5_Interface_IFormattable\OOP-5_Interface_IFormattable\bin\Debug\net6.0\OOP-5_Interface_IFormattables.deps.json
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-5_Interface_IFormattable\OOP-5_Interface_IFormattable\bin\Debug\net6.0\OOP-5_Interface_IFormattables.runtimeconfig.json
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-5_Interface_IFormattable\OOP-5_Interface_IFormattable\bin\Debug\net6.0\OOP-5_Interface_IFormattables.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-5_Interface_IFormattable\OOP-5_Interface_IFormattable\bin\Debug\net6.0\OOP-5_Interface_IFormattables.pdb
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-5_Interface_IFormattable\OOP-5_Interface_IFormattable\obj\Debug\net6.0\OOP-5_Interface_IFormattables.csproj.AssemblyReference.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-5_Interface_IFormattable\OOP-5_Interface_IFormattable\obj\Debug\net6.0\OOP-5_Interface_IFormattables.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-5_Interface_IFormattable\OOP-5_Interface_IFormattable\obj\Debug\net6.0\OOP-5_Interface_IFormattables.AssemblyInfoInputs.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-5_Interface_IFormattable\OOP-5_Interface_IFormattable\obj\Debug\net6.0\OOP-5_Interface_IFormattables.AssemblyInfo.cs
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-5_Interface_IFormattable\OOP-5_Interface_IFormattable\obj\Debug\net6.0\OOP-5_Interface_IFormattables.csproj.CoreCompileInputs.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-5_Interface_IFormattable\OOP-5_Interface_IFormattable\obj\Debug\net6.0\OOP-5_Interface_IFormattables.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-5_Interface_IFormattable\OOP-5_Interface_IFormattable\obj\Debug\net6.0\refint\OOP-5_Interface_IFormattables.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-5_Interface_IFormattable\OOP-5_Interface_IFormattable\obj\Debug\net6.0\OOP-5_Interface_IFormattables.pdb
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-5_Interface_IFormattable\OOP-5_Interface_IFormattable\obj\Debug\net6.0\OOP-5_Interface_IFormattables.genruntimeconfig.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-5_Interface_IFormattable\OOP-5_Interface_IFormattable\obj\Debug\net6.0\ref\OOP-5_Interface_IFormattables.dll
